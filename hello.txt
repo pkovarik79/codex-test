@@ -1,1 +1,2 @@
 Codex je propojený s GitHubem! UPDATED
+Tohle je commit přímo do větve main.
